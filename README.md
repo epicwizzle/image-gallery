@@ -6,11 +6,7 @@ This is a one-page PHP app designed specifically for my wife to effortlessly org
 
 - Slideshow viewing of wedding and family photos.
 - Responsive design for seamless viewing across devices.
-- Customizable slideshow settings.
 - Simple and intuitive interface for easy navigation.
-- User authentication for privacy.
-- Social sharing options for sharing favorite photos.
-- Performance optimization for fast loading times.
 
 ## Usage
 
